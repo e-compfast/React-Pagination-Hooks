@@ -23,6 +23,8 @@ Fullstack with Node.js Express:
 Fullstack with Spring Boot:
 > [React + Spring Boot + MySQL](https://bezkoder.com/react-spring-boot-crud/)
 
+> [React + Spring Boot + PostgreSQL](https://bezkoder.com/spring-boot-react-postgresql/)
+
 > [React + Spring Boot + MongoDB](https://bezkoder.com/react-spring-boot-mongodb/)
 
 Fullstack with Django:
